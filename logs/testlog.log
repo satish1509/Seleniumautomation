@@ -1,0 +1,191 @@
+2025-05-30 11:54:07 INFO  Googleautomationwithlog4j:19 - Starting Test Case: Google Search
+2025-05-30 11:54:10 DEBUG Googleautomationwithlog4j:23 - Chrome browser launched
+2025-05-30 11:54:11 INFO  Googleautomationwithlog4j:26 - Navigated to Google
+2025-05-30 11:54:11 INFO  Googleautomationwithlog4j:29 - Entered text in search box
+2025-05-30 11:54:12 INFO  Googleautomationwithlog4j:32 - Submitted search
+2025-05-30 11:54:12 DEBUG Googleautomationwithlog4j:34 - Page title is: Google Search
+2025-05-30 11:54:13 INFO  Googleautomationwithlog4j:37 - Closed the browser
+2025-05-30 11:54:13 INFO  Googleautomationwithlog4j:39 - Test Case Completed
+2025-05-30 12:12:33 INFO  Googleautomationwithlog4j:19 - Starting Test Case: Google Search
+2025-05-30 12:12:36 DEBUG Googleautomationwithlog4j:23 - Chrome browser launched
+2025-05-30 12:12:37 INFO  Googleautomationwithlog4j:26 - Navigated to Google
+2025-05-30 12:30:41 INFO  Googleautomationwithlog4j:19 - Starting Test Case: Google Search
+2025-05-30 12:30:44 DEBUG Googleautomationwithlog4j:23 - Chrome browser launched
+2025-05-30 12:30:46 INFO  Googleautomationwithlog4j:26 - Navigated to Google
+2025-05-30 12:30:46 INFO  Googleautomationwithlog4j:29 - Entered text in search box
+2025-05-30 12:30:46 INFO  Googleautomationwithlog4j:32 - Submitted search
+2025-05-30 12:30:48 DEBUG Googleautomationwithlog4j:34 - Page title is: Google Search
+2025-05-30 12:30:49 INFO  Googleautomationwithlog4j:37 - Closed the browser
+2025-05-30 12:30:49 INFO  Googleautomationwithlog4j:39 - Test Case Completed
+2025-05-30 12:32:00 INFO  Googleautomationwithlog4j:19 - Starting Test Case: Google Search
+2025-05-30 12:32:03 DEBUG Googleautomationwithlog4j:23 - Chrome browser launched
+2025-05-30 12:32:04 INFO  Googleautomationwithlog4j:26 - Navigated to Google
+2025-05-30 12:32:46 INFO  Googleautomationwithlog4j:19 - Starting Test Case: Google Search
+2025-05-30 12:32:48 DEBUG Googleautomationwithlog4j:23 - Chrome browser launched
+2025-05-30 12:32:50 INFO  Googleautomationwithlog4j:26 - Navigated to Google
+2025-05-30 12:32:50 INFO  Googleautomationwithlog4j:29 - Entered text in search box
+2025-05-30 12:36:27 INFO  Googleautomationwithlog4j:20 - Starting Test Case: Google Search
+2025-05-30 12:36:30 DEBUG Googleautomationwithlog4j:24 - Chrome browser launched
+2025-05-30 12:36:31 INFO  Googleautomationwithlog4j:27 - Navigated to Google
+2025-05-30 12:36:31 INFO  Googleautomationwithlog4j:30 - Entered text in search box
+2025-05-30 12:36:31 ERROR Googleautomationwithlog4j:36 - Element not found: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='sdd']"}
+  (Session info: chrome=137.0.7151.41)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f8bdaa0636670d979f98cd73a86159aa, findElement {using=name, value=sdd}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.41, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\91939\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52309}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52309/devtoo..., se:cdpVersion: 137.0.7151.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f8bdaa0636670d979f98cd73a86159aa
+2025-05-30 12:36:31 DEBUG Googleautomationwithlog4j:40 - Page title is: Google
+2025-05-30 12:36:32 INFO  Googleautomationwithlog4j:43 - Closed the browser
+2025-05-30 12:36:32 INFO  Googleautomationwithlog4j:45 - Test Case Completed
+2025-05-30 12:49:29 INFO  Googleautomationwithlog4j:19 - Starting Test Case: Google Search
+2025-05-30 12:49:32 DEBUG Googleautomationwithlog4j:23 - Chrome browser launched
+2025-05-30 12:49:32 INFO  Googleautomationwithlog4j:26 - Navigated to Google
+2025-05-30 12:49:33 INFO  Googleautomationwithlog4j:29 - Entered text in search box
+2025-05-30 12:49:33 INFO  Googleautomationwithlog4j:32 - Submitted search
+2025-05-30 12:49:34 DEBUG Googleautomationwithlog4j:34 - Page title is: Google Search
+2025-05-30 12:49:35 INFO  Googleautomationwithlog4j:37 - Closed the browser
+2025-05-30 12:49:35 INFO  Googleautomationwithlog4j:39 - Test Case Completed
+2025-05-30 12:51:50 INFO  Googleautomationwithlog4j:23 - ========== Starting Test Case: Google Search ==========
+2025-05-30 12:51:53 DEBUG Googleautomationwithlog4j:26 - Chrome browser launched
+2025-05-30 12:51:54 INFO  Googleautomationwithlog4j:29 - Navigated to Google
+2025-05-30 12:51:54 INFO  Googleautomationwithlog4j:33 - Entered text in search box
+2025-05-30 12:51:54 INFO  Googleautomationwithlog4j:37 - Submitted search
+2025-05-30 12:51:55 DEBUG Googleautomationwithlog4j:40 - Page title is: Google Search
+2025-05-30 12:51:56 INFO  Googleautomationwithlog4j:43 - Closed the browser
+2025-05-30 12:51:56 INFO  Googleautomationwithlog4j:45 - ========== Test Case Completed ==========
+2025-05-30 12:52:20 INFO  Googleautomationwithlog4j:23 - ========== Starting Test Case: Google Search ==========
+2025-05-30 12:52:21 DEBUG Googleautomationwithlog4j:26 - Chrome browser launched
+2025-05-30 12:52:22 INFO  Googleautomationwithlog4j:29 - Navigated to Google
+2025-05-30 12:52:23 INFO  Googleautomationwithlog4j:33 - Entered text in search box
+2025-05-30 12:52:23 ERROR Googleautomationwithlog4j:20 - Unhandled exception in thread: main
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='ssq']"}
+  (Session info: chrome=137.0.7151.41)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2b30f5f6c581a02bd92661cb65d42372, findElement {using=name, value=ssq}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.41, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\91939\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53138}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53138/devtoo..., se:cdpVersion: 137.0.7151.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2b30f5f6c581a02bd92661cb65d42372
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:354)
+	at dynamictable.Googleautomationwithlog4j.main(Googleautomationwithlog4j.java:36)
+2025-05-30 12:53:06 DEBUG Googleautomationwithlog4j:19 - Chrome browser launched
+2025-05-30 12:53:07 INFO  Googleautomationwithlog4j:22 - Navigated to Google
+2025-05-30 12:53:07 INFO  Googleautomationwithlog4j:26 - Entered text in search box
+2025-05-30 12:56:22 INFO  Googleautomationwithlog4j:23 - ========== Starting Test Case: Google Search ==========
+2025-05-30 12:56:25 DEBUG Googleautomationwithlog4j:26 - Chrome browser launched
+2025-05-30 12:56:25 ERROR Googleautomationwithlog4j:20 - Unhandled exception in thread: main
+org.openqa.selenium.WebDriverException: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=137.0.7151.41)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [abbfc9d08c7113e1f76aa6813950298c, get {url=https://www.google.comm}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.41, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\91939\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53263}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53263/devtoo..., se:cdpVersion: 137.0.7151.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: abbfc9d08c7113e1f76aa6813950298c
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:305)
+	at dynamictable.Googleautomationwithlog4j.main(Googleautomationwithlog4j.java:28)
+2025-05-30 12:57:09 INFO  Googleautomationwithlog4j:20 - ========== Starting Test Case: Google Search ==========
+2025-05-30 12:57:12 DEBUG Googleautomationwithlog4j:23 - Chrome browser launched
+2025-05-30 13:01:14 INFO  Googleautomationwithlog4j:20 - ========== Starting Test Case: Google Search ==========
+2025-05-30 13:01:17 DEBUG Googleautomationwithlog4j:23 - Chrome browser launched
+2025-05-30 13:01:18 INFO  Googleautomationwithlog4j:26 - Navigated to Google
+2025-05-30 13:05:15 INFO  Googleautomationwithlog4j:24 - ========== Starting Test Case: Google Search ==========
+2025-05-30 13:05:17 DEBUG Googleautomationwithlog4j:27 - Chrome browser launched
+2025-05-30 13:05:18 INFO  Googleautomationwithlog4j:30 - Navigated to Google
+2025-05-30 13:05:18 INFO  Googleautomationwithlog4j:34 - Entered text in search box
+2025-05-30 13:05:19 INFO  Googleautomationwithlog4j:38 - Submitted search
+2025-05-30 13:05:20 DEBUG Googleautomationwithlog4j:41 - Page title is: Google Search
+2025-05-30 13:05:21 INFO  Googleautomationwithlog4j:44 - Closed the browser
+2025-05-30 13:05:21 INFO  Googleautomationwithlog4j:46 - ========== Test Case Completed ==========
+2025-05-30 13:06:19 INFO  Googleautomationwithlog4j:24 - ========== Starting Test Case: Google Search ==========
+2025-05-30 13:06:22 DEBUG Googleautomationwithlog4j:27 - Chrome browser launched
+2025-05-30 13:06:23 INFO  Googleautomationwithlog4j:30 - Navigated to Google
+2025-05-30 13:06:23 INFO  Googleautomationwithlog4j:34 - Entered text in search box
+2025-05-30 13:06:23 INFO  Googleautomationwithlog4j:38 - Submitted search
+2025-05-30 13:06:25 DEBUG Googleautomationwithlog4j:41 - Page title is: Google Search
+2025-05-30 13:06:25 INFO  Googleautomationwithlog4j:44 - Closed the browser
+2025-05-30 13:06:25 INFO  Googleautomationwithlog4j:46 - ========== Test Case Completed ==========
+2025-05-30 13:06:42 INFO  Googleautomationwithlog4j:24 - ========== Starting Test Case: Google Search ==========
+2025-05-30 13:06:44 DEBUG Googleautomationwithlog4j:27 - Chrome browser launched
+2025-05-30 13:06:45 INFO  Googleautomationwithlog4j:30 - Navigated to Google
+2025-05-30 13:06:45 ERROR Googleautomationwithlog4j:21 - Unhandled exception in thread: main
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='qcdd']"}
+  (Session info: chrome=137.0.7151.41)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [acbf1756b6d9e4980c03c0cee8ee314f, findElement {using=name, value=qcdd}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.41, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\91939\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54460}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54460/devtoo..., se:cdpVersion: 137.0.7151.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: acbf1756b6d9e4980c03c0cee8ee314f
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:66)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:354)
+	at dynamictable.Googleautomationwithlog4j.main(Googleautomationwithlog4j.java:33)
+2025-05-30 13:07:31 INFO  Googleautomationwithlog4j:24 - ========== Starting Test Case: Google Search ==========
+2025-05-30 13:07:34 DEBUG Googleautomationwithlog4j:27 - Chrome browser launched
+2025-05-30 13:07:35 INFO  Googleautomationwithlog4j:30 - Navigated to Google
+2025-05-30 13:07:35 INFO  Googleautomationwithlog4j:34 - Entered text in search box
+2025-05-30 13:07:35 ERROR Googleautomationwithlog4j:21 - Unhandled exception in thread: main
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='qdd']"}
+  (Session info: chrome=137.0.7151.41)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [935f93be94cb691c8c46f418f1e3021b, findElement {using=name, value=qdd}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.41, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\91939\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54524}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54524/devtoo..., se:cdpVersion: 137.0.7151.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 935f93be94cb691c8c46f418f1e3021b
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:354)
+	at dynamictable.Googleautomationwithlog4j.main(Googleautomationwithlog4j.java:37)
